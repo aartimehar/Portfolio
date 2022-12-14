@@ -10,7 +10,7 @@ HTML File - https://github.com/aartimehar/Portfolio/blob/main/starter.html
 
 CSS File - https://github.com/aartimehar/Portfolio/blob/main/starter.css
 
-
+URL Live link : https://aartimehar.github.io/Portfolio/
 
 
 
