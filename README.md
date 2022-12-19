@@ -6,11 +6,13 @@ This website is been made according to the following instructions provided by th
 
 Github URL's
 
+Read me File : https://github.com/aartimehar/Portfolio/blob/main/README.md
+
 HTML File - https://github.com/aartimehar/Portfolio/blob/main/starter.html
 
 CSS File - https://github.com/aartimehar/Portfolio/blob/main/starter.css
 
-
+URL Live link : https://aartimehar.github.io/Portfolio/
 
 
 
